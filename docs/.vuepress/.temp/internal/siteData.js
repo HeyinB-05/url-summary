@@ -1,1 +1,1 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"url-summary\",\"description\":\"网址汇总\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/logo.png\"}]],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/url-summary/\",\"lang\":\"en-US\",\"title\":\"url-summary\",\"description\":\"网址汇总\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/logo.png\"}]],\"locales\":{}}")
