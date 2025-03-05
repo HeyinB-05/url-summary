@@ -12,6 +12,7 @@
 - [**webcam**](https://www.npmjs.com/package/webcamjs) 访问摄像头 上传到服务器。
 - [**nodemailer**](https://www.nodemailer.com/) 发送邮件。
 - [**vxetable**](https://vxetable.cn/#/start/install) 基于 vue 的表格库。
+- [**turnjs/**](http://turnjs.com/) 使用 HTML5 制作翻书
 
 ## Vue 基础
 

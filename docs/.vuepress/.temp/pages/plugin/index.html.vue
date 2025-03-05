@@ -10,6 +10,7 @@
 <li><a href="https://www.npmjs.com/package/webcamjs" target="_blank" rel="noopener noreferrer"><strong>webcam</strong></a> 访问摄像头 上传到服务器。</li>
 <li><a href="https://www.nodemailer.com/" target="_blank" rel="noopener noreferrer"><strong>nodemailer</strong></a> 发送邮件。</li>
 <li><a href="https://vxetable.cn/#/start/install" target="_blank" rel="noopener noreferrer"><strong>vxetable</strong></a> 基于 vue 的表格库。</li>
+<li><a href="http://turnjs.com/" target="_blank" rel="noopener noreferrer"><strong>turnjs/</strong></a> 使用 HTML5 制作翻书</li>
 </ul>
 <h2 id="vue-基础" tabindex="-1"><a class="header-anchor" href="#vue-基础"><span>Vue 基础</span></a></h2>
 <ul>

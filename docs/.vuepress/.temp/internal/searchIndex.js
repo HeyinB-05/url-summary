@@ -55,9 +55,38 @@ export const SEARCH_INDEX = [
       },
       {
         "level": 2,
-        "title": "一些ui后台参考",
-        "slug": "一些ui后台参考",
-        "link": "#一些ui后台参考",
+        "title": "视频",
+        "slug": "视频",
+        "link": "#视频",
+        "children": [
+          {
+            "level": 3,
+            "title": "音频",
+            "slug": "音频",
+            "link": "#音频",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "批注",
+        "slug": "批注",
+        "link": "#批注",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "一些 ui 后台参考",
+        "slug": "一些-ui-后台参考",
+        "link": "#一些-ui-后台参考",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "WebSocket",
+        "slug": "websocket",
+        "link": "#websocket",
         "children": []
       }
     ],
