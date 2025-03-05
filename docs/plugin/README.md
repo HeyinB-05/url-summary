@@ -3,7 +3,10 @@
 
 ## 前端常用
 - [**正则大全**](https://any86.github.io/any-rule/)
-- [**Splitpanes**](https://antoniandre.github.io/splitpanes/) 拆分窗格插件
+- [**Splitpanes**](https://antoniandre.github.io/splitpanes/) 拆分窗格插件些使用过的库。
+
+## 工具库
+- [**webcam**](https://www.npmjs.com/package/webcamjs) 访问摄像头 上传到服务器。
 
 ## Vue 基础
 - [**VueUse**](https://vueuse.nodejs.cn/#google_vignette) 基础 Vue 组合式工具的集合，功能强大的 vue 函数库，提供了多种 hooks。
@@ -22,3 +25,18 @@
 
 ## Node
 - [**getlocalip**](https://www.npmjs.com/package/getlocalip) 这是一个获取本地ip的节点线工具。
+
+## 动画
+- [**animejs**](https://animejs.com/documentation/#array) 动画库，可以用js控制动画。
+- [**tsParticles**](https://github.com/tsparticles/tsparticles) 一个用于创建粒子的轻量级TypeScript库。
+
+## CSS
+- [**tailwindcss**](https://www.tailwindcss.cn/) 原子化CSS，只需写class，无需写样式。
+ 
+
+ ## 一些大佬
+- [**网站汇总**](https://www.kancloud.cn/pan123456/web_count/3182391) 网址合集
+- [**panjiachen**](https://panjiachen.github.io/awesome-bookmarks/repository/) 一个字节跳动的大佬
+- [**yunyoujun**](https://www.yunyoujun.cn/projects/) 云游君，elememt-plus开发者之一
+- [**神奇海螺试验场**](https://lab.magiconch.com/)
+- [**wangyasai**](https://wangyasai.github.io/) 一个3D网站

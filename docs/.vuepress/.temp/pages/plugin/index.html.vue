@@ -3,7 +3,11 @@
 <h2 id="前端常用" tabindex="-1"><a class="header-anchor" href="#前端常用"><span>前端常用</span></a></h2>
 <ul>
 <li><a href="https://any86.github.io/any-rule/" target="_blank" rel="noopener noreferrer"><strong>正则大全</strong></a></li>
-<li><a href="https://antoniandre.github.io/splitpanes/" target="_blank" rel="noopener noreferrer"><strong>Splitpanes</strong></a> 拆分窗格插件</li>
+<li><a href="https://antoniandre.github.io/splitpanes/" target="_blank" rel="noopener noreferrer"><strong>Splitpanes</strong></a> 拆分窗格插件些使用过的库。</li>
+</ul>
+<h2 id="工具库" tabindex="-1"><a class="header-anchor" href="#工具库"><span>工具库</span></a></h2>
+<ul>
+<li><a href="https://www.npmjs.com/package/webcamjs" target="_blank" rel="noopener noreferrer"><strong>webcam</strong></a> 访问摄像头 上传到服务器。</li>
 </ul>
 <h2 id="vue-基础" tabindex="-1"><a class="header-anchor" href="#vue-基础"><span>Vue 基础</span></a></h2>
 <ul>
@@ -26,6 +30,23 @@
 <h2 id="node" tabindex="-1"><a class="header-anchor" href="#node"><span>Node</span></a></h2>
 <ul>
 <li><a href="https://www.npmjs.com/package/getlocalip" target="_blank" rel="noopener noreferrer"><strong>getlocalip</strong></a> 这是一个获取本地ip的节点线工具。</li>
+</ul>
+<h2 id="动画" tabindex="-1"><a class="header-anchor" href="#动画"><span>动画</span></a></h2>
+<ul>
+<li><a href="https://animejs.com/documentation/#array" target="_blank" rel="noopener noreferrer"><strong>animejs</strong></a> 动画库，可以用js控制动画。</li>
+<li><a href="https://github.com/tsparticles/tsparticles" target="_blank" rel="noopener noreferrer"><strong>tsParticles</strong></a> 一个用于创建粒子的轻量级TypeScript库。</li>
+</ul>
+<h2 id="css" tabindex="-1"><a class="header-anchor" href="#css"><span>CSS</span></a></h2>
+<ul>
+<li><a href="https://www.tailwindcss.cn/" target="_blank" rel="noopener noreferrer"><strong>tailwindcss</strong></a> 原子化CSS，只需写class，无需写样式。</li>
+</ul>
+<h2 id="一些大佬" tabindex="-1"><a class="header-anchor" href="#一些大佬"><span>一些大佬</span></a></h2>
+<ul>
+<li><a href="https://www.kancloud.cn/pan123456/web_count/3182391" target="_blank" rel="noopener noreferrer"><strong>网站汇总</strong></a> 网址合集</li>
+<li><a href="https://panjiachen.github.io/awesome-bookmarks/repository/" target="_blank" rel="noopener noreferrer"><strong>panjiachen</strong></a> 一个字节跳动的大佬</li>
+<li><a href="https://www.yunyoujun.cn/projects/" target="_blank" rel="noopener noreferrer"><strong>yunyoujun</strong></a> 云游君，elememt-plus开发者之一</li>
+<li><a href="https://lab.magiconch.com/" target="_blank" rel="noopener noreferrer"><strong>神奇海螺试验场</strong></a></li>
+<li><a href="https://wangyasai.github.io/" target="_blank" rel="noopener noreferrer"><strong>wangyasai</strong></a> 一个3D网站</li>
 </ul>
 </div></template>
 

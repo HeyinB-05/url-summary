@@ -17,8 +17,16 @@ export default defineUserConfig({
         text: "库",
         link: "/plugin/",
       },
+      {
+        text: "网站",
+        link: "/website/",
+      },
+      {
+        text: "学习",
+        link: "/learn/",
+      },
     ],
-    sidebarDepth: 2,
+    sidebarDepth: 3,
     lastUpdatedText: "上次更新",
     repo: "HeyinB-05/url-summary",
     editLinkText: '在 GitHub 上编辑此页',
