@@ -7,7 +7,15 @@ export const SEARCH_INDEX = [
         "title": "前端",
         "slug": "前端",
         "link": "#前端",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "封装",
+            "slug": "封装",
+            "link": "#封装",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -36,6 +44,20 @@ export const SEARCH_INDEX = [
         "title": "SQL",
         "slug": "sql",
         "link": "#sql",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "CSS",
+        "slug": "css",
+        "link": "#css",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "一些ui后台参考",
+        "slug": "一些ui后台参考",
+        "link": "#一些ui后台参考",
         "children": []
       }
     ],
@@ -115,13 +137,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "",
-    "headers": [],
-    "path": "/404.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "网站",
     "headers": [
       {
@@ -133,6 +148,13 @@ export const SEARCH_INDEX = [
       },
       {
         "level": 2,
+        "title": "UI",
+        "slug": "ui",
+        "link": "#ui",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "其他",
         "slug": "其他",
         "link": "#其他",
@@ -140,6 +162,13 @@ export const SEARCH_INDEX = [
       }
     ],
     "path": "/website/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/404.html",
     "pathLocale": "/",
     "extraFields": []
   }

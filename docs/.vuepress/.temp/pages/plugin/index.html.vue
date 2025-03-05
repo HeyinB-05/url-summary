@@ -8,6 +8,8 @@
 <h2 id="工具库" tabindex="-1"><a class="header-anchor" href="#工具库"><span>工具库</span></a></h2>
 <ul>
 <li><a href="https://www.npmjs.com/package/webcamjs" target="_blank" rel="noopener noreferrer"><strong>webcam</strong></a> 访问摄像头 上传到服务器。</li>
+<li><a href="https://www.nodemailer.com/" target="_blank" rel="noopener noreferrer"><strong>nodemailer</strong></a> 发送邮件。</li>
+<li><a href="https://vxetable.cn/#/start/install" target="_blank" rel="noopener noreferrer"><strong>vxetable</strong></a> 基于 vue 的表格库。</li>
 </ul>
 <h2 id="vue-基础" tabindex="-1"><a class="header-anchor" href="#vue-基础"><span>Vue 基础</span></a></h2>
 <ul>
@@ -29,24 +31,28 @@
 </ul>
 <h2 id="node" tabindex="-1"><a class="header-anchor" href="#node"><span>Node</span></a></h2>
 <ul>
-<li><a href="https://www.npmjs.com/package/getlocalip" target="_blank" rel="noopener noreferrer"><strong>getlocalip</strong></a> 这是一个获取本地ip的节点线工具。</li>
+<li><a href="https://www.npmjs.com/package/getlocalip" target="_blank" rel="noopener noreferrer"><strong>getlocalip</strong></a> 这是一个获取本地 ip 的节点线工具。</li>
+<li><a href="https://www.npmjs.com/package/mcprotocol#initiate-connection" target="_blank" rel="noopener noreferrer"><strong>mcprotocol</strong></a>mcprotocol 是一个库，允许使用三菱记录的 MC（MELSEC 通信）以太网协议与三菱 PLC（当前仅测试 FX3U）进行通信。警告 - 这是测试版代码</li>
 </ul>
 <h2 id="动画" tabindex="-1"><a class="header-anchor" href="#动画"><span>动画</span></a></h2>
 <ul>
-<li><a href="https://animejs.com/documentation/#array" target="_blank" rel="noopener noreferrer"><strong>animejs</strong></a> 动画库，可以用js控制动画。</li>
-<li><a href="https://github.com/tsparticles/tsparticles" target="_blank" rel="noopener noreferrer"><strong>tsParticles</strong></a> 一个用于创建粒子的轻量级TypeScript库。</li>
+<li><a href="https://animejs.com/documentation/#array" target="_blank" rel="noopener noreferrer"><strong>animejs</strong></a> 动画库，可以用 js 控制动画。</li>
+<li><a href="https://github.com/tsparticles/tsparticles" target="_blank" rel="noopener noreferrer"><strong>tsParticles</strong></a> 一个用于创建粒子的轻量级 TypeScript 库。</li>
 </ul>
 <h2 id="css" tabindex="-1"><a class="header-anchor" href="#css"><span>CSS</span></a></h2>
 <ul>
-<li><a href="https://www.tailwindcss.cn/" target="_blank" rel="noopener noreferrer"><strong>tailwindcss</strong></a> 原子化CSS，只需写class，无需写样式。</li>
+<li><a href="https://www.tailwindcss.cn/" target="_blank" rel="noopener noreferrer"><strong>tailwindcss</strong></a> 原子化 CSS，只需写 class，无需写样式。</li>
+<li><a href="https://vant-ui.github.io/vant/#/zh-CN" target="_blank" rel="noopener noreferrer"><strong>vant</strong></a> vant4</li>
+<li><a href="http://www.umyui.com/" target="_blank" rel="noopener noreferrer"><strong>umy-ui</strong></a></li>
 </ul>
 <h2 id="一些大佬" tabindex="-1"><a class="header-anchor" href="#一些大佬"><span>一些大佬</span></a></h2>
 <ul>
 <li><a href="https://www.kancloud.cn/pan123456/web_count/3182391" target="_blank" rel="noopener noreferrer"><strong>网站汇总</strong></a> 网址合集</li>
 <li><a href="https://panjiachen.github.io/awesome-bookmarks/repository/" target="_blank" rel="noopener noreferrer"><strong>panjiachen</strong></a> 一个字节跳动的大佬</li>
-<li><a href="https://www.yunyoujun.cn/projects/" target="_blank" rel="noopener noreferrer"><strong>yunyoujun</strong></a> 云游君，elememt-plus开发者之一</li>
+<li><a href="https://www.yunyoujun.cn/projects/" target="_blank" rel="noopener noreferrer"><strong>yunyoujun</strong></a> 云游君，elememt-plus 开发者之一</li>
 <li><a href="https://lab.magiconch.com/" target="_blank" rel="noopener noreferrer"><strong>神奇海螺试验场</strong></a></li>
-<li><a href="https://wangyasai.github.io/" target="_blank" rel="noopener noreferrer"><strong>wangyasai</strong></a> 一个3D网站</li>
+<li><a href="https://wangyasai.github.io/" target="_blank" rel="noopener noreferrer"><strong>wangyasai</strong></a> 一个 3D 网站</li>
+<li><a href="https://github.com/plcpeople" target="_blank" rel="noopener noreferrer"><strong>plcpeople</strong></a> 一个研究 plc 与 js 通讯的大佬</li>
 </ul>
 </div></template>
 

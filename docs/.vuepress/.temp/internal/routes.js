@@ -4,8 +4,8 @@ export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"E:/我的项目/UrlSummary/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"首页"} }],
   ["/learn/", { loader: () => import(/* webpackChunkName: "learn_index.html" */"E:/我的项目/UrlSummary/docs/.vuepress/.temp/pages/learn/index.html.js"), meta: {"title":"学习"} }],
   ["/plugin/", { loader: () => import(/* webpackChunkName: "plugin_index.html" */"E:/我的项目/UrlSummary/docs/.vuepress/.temp/pages/plugin/index.html.js"), meta: {"title":"库"} }],
-  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"E:/我的项目/UrlSummary/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
   ["/website/", { loader: () => import(/* webpackChunkName: "website_index.html" */"E:/我的项目/UrlSummary/docs/.vuepress/.temp/pages/website/index.html.js"), meta: {"title":"网站"} }],
+  ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"E:/我的项目/UrlSummary/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
 
 if (import.meta.webpackHot) {
