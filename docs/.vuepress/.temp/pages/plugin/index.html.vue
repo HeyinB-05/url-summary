@@ -1,19 +1,31 @@
-<template><div><h1 id="推荐库" tabindex="-1"><a class="header-anchor" href="#推荐库"><span>推荐库</span></a></h1>
-<p><strong>这里主要推荐一下自己平时常用，提高效率的一些库和软件。</strong></p>
-<h2 id="有趣" tabindex="-1"><a class="header-anchor" href="#有趣"><span>有趣</span></a></h2>
+<template><div><h1 id="库" tabindex="-1"><a class="header-anchor" href="#库"><span>库</span></a></h1>
+<p><strong>这里收集一些使用过的库。</strong></p>
+<h2 id="前端常用" tabindex="-1"><a class="header-anchor" href="#前端常用"><span>前端常用</span></a></h2>
 <ul>
-<li><a href="https://github.com/hendricius/the-bread-code" target="_blank" rel="noopener noreferrer"><strong>the-bread-code</strong></a> 使用程序员的思维制作面包 ，比如制作中使用 A/B test,
-来比较那种做法更好。</li>
-<li><a href="https://github.com/danistefanovic/build-your-own-x" target="_blank" rel="noopener noreferrer"><strong>build-your-own-x</strong></a> 教你用各种语言实现 Bot Database Neural Network</li>
-<li><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank" rel="noopener noreferrer">**javascript-algorithms **</a> 教你用前端知识认识各种算法</li>
-<li><a href="https://github.com/kleampa/not-paid" target="_blank" rel="noopener noreferrer"><strong>not-paid</strong></a> 如果你给人做网站，交过去以后对方没有付款，那么这个 JS 会把网站的透明度一天调低一点，直到看不见</li>
-<li><a href="https://github.com/infinitered/nsfwjs" target="_blank" rel="noopener noreferrer"><strong>nsfwjs</strong></a> 前端图片鉴黄，基于 Tensorflow</li>
-<li><a href="https://github.com/tholman/elevator.js" target="_blank" rel="noopener noreferrer"><strong>elevator.js</strong></a> 我很喜欢的一个库，让一个 back-to-top 的效果有了一种坐复古电梯的感觉</li>
-<li><a href="https://github.com/florinpop17/app-ideas" target="_blank" rel="noopener noreferrer"><strong>app-ideas</strong></a> 很多年轻人苦于缺少练手的项目，这个项目收集了不少点子，每个点子都有明确的目标和复杂资源。</li>
-<li><a href="https://github.com/PavelDoGreat/WebGL-Fluid-Simulation" target="_blank" rel="noopener noreferrer"><strong>WebGL-Fluid-Simulation</strong></a> 很酷的 WebGL 交互</li>
-<li><a href="https://github.com/miukimiu/react-kawaii" target="_blank" rel="noopener noreferrer"><strong>react-kawaii</strong></a> 一个非常可爱的 React 卡通人脸库，很有意思</li>
-<li><a href="https://github.com/Mckinsey666/chart-race-react" target="_blank" rel="noopener noreferrer"><strong>chart-race-react</strong></a> 图表竞赛 长条图赛跑动画 在微博或者 b 站这种类型视频很火</li>
-<li><a href="https://jdan.github.io/98.css/#tree-view" target="_blank" rel="noopener noreferrer"><strong>98.css</strong></a> windows 98 主题分格 css</li>
+<li><a href="https://any86.github.io/any-rule/" target="_blank" rel="noopener noreferrer"><strong>正则大全</strong></a></li>
+<li><a href="https://antoniandre.github.io/splitpanes/" target="_blank" rel="noopener noreferrer"><strong>Splitpanes</strong></a> 拆分窗格插件</li>
+</ul>
+<h2 id="vue-基础" tabindex="-1"><a class="header-anchor" href="#vue-基础"><span>Vue 基础</span></a></h2>
+<ul>
+<li><a href="https://vueuse.nodejs.cn/#google_vignette" target="_blank" rel="noopener noreferrer"><strong>VueUse</strong></a> 基础 Vue 组合式工具的集合，功能强大的 vue 函数库，提供了多种 hooks。</li>
+<li><a href="https://cn-vuejs-challenges.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Vue.js 挑战</strong></a> Vuejs 挑战平台</li>
+</ul>
+<h2 id="excel" tabindex="-1"><a class="header-anchor" href="#excel"><span>Excel</span></a></h2>
+<ul>
+<li><a href="https://xlsx.nodejs.cn/docs/" target="_blank" rel="noopener noreferrer"><strong>SheetJS</strong></a> 基功能强大的 excel 库，支持导入导出。</li>
+<li><a href="https://github.com/exceljs/exceljs" target="_blank" rel="noopener noreferrer"><strong>exceljs</strong></a> 基于 SheetJS 的 excel 库，支持导入导出，功能更强大。</li>
+<li><a href="https://github.com/SheetJS/sheetjs" target="_blank" rel="noopener noreferrer"><strong>xlsxjs</strong></a> 轻量级 excel 处理文件。</li>
+<li><a href="https://hondrytravis.com/x-spreadsheet-doc/guide/#cdn" target="_blank" rel="noopener noreferrer"><strong>X-Spreadsheet</strong></a> 基于 canvas 的 excel 库，可以在网页显示 excel 文件。</li>
+</ul>
+<h2 id="可视化" tabindex="-1"><a class="header-anchor" href="#可视化"><span>可视化</span></a></h2>
+<ul>
+<li><a href="https://echarts.apache.org/zh/index.html" target="_blank" rel="noopener noreferrer"><strong>ECharts</strong></a> 百度开源的图表库，功能强大，支持多种图表类型。</li>
+<li><a href="https://threejs.org/" target="_blank" rel="noopener noreferrer"><strong>Three.js</strong></a> 3D 图形库，功能强大，支持多种 3D 图形类型。</li>
+<li><a href="http://datav.jiaminghi.com/" target="_blank" rel="noopener noreferrer"><strong>DataV</strong></a> 大屏数据可视化库，支持多种图表类型。</li>
+</ul>
+<h2 id="node" tabindex="-1"><a class="header-anchor" href="#node"><span>Node</span></a></h2>
+<ul>
+<li><a href="https://www.npmjs.com/package/getlocalip" target="_blank" rel="noopener noreferrer"><strong>getlocalip</strong></a> 这是一个获取本地ip的节点线工具。</li>
 </ul>
 </div></template>
 

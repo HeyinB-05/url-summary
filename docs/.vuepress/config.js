@@ -18,7 +18,13 @@ export default defineUserConfig({
         link: "/plugin/",
       },
     ],
-    sidebarDepth: 2
+    sidebarDepth: 2,
+    lastUpdatedText: "上次更新",
+    repo: "HeyinB-05/url-summary",
+    editLinkText: '在 GitHub 上编辑此页',
+    contributorsText: '贡献者',
+    editLinks: true,
+    docsDir: "docs",
   }),
   plugins: [
     searchPlugin({
@@ -31,6 +37,7 @@ export default defineUserConfig({
       isSearchable: (page) => page.path !== "/",
     }),
   ],
-  base:'/url-summary/',
+  base: "/url-summary/",
+  ga: 'UA-109340118-1',
   bundler: viteBundler(),
 });
