@@ -31,5 +31,6 @@ export default defineUserConfig({
       isSearchable: (page) => page.path !== "/",
     }),
   ],
+  base:'/url-summary/',
   bundler: viteBundler(),
 });
