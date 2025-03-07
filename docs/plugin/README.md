@@ -24,6 +24,8 @@
 - [**html2canvas**](https://html2canvas.hertzen.com/) 将 html 转为图片 [相关解决方案](http://www.flerken.cn/programInfo/1165.html)
 - [**printjs**](https://printjs.crabbly.com/) 打印插件
 - [**Fabric.js**](https://fabricjs.com/) [文档](https://www.wenjiangs.com/doc/quick-get-start) [Canvs的js库：Fabric.js简单强大，用于绘制各种图形](https://baijiahao.baidu.com/s?id=1785850109465867365&wfr=spider&for=pc)
+- [**chinese-days**](https://www.npmjs.com/package/chinese-days?activeTab=readme) 中国节假日
+- [**tiffjs**](https://seikichi.github.io/tiff.js/) tiffjs 是一个用于解析和解码 tiff 图像的 JavaScript 库。
 
 ## Vue 基础
 
