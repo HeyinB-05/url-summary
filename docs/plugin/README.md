@@ -72,3 +72,4 @@
 - [**神奇海螺试验场**](https://lab.magiconch.com/)
 - [**wangyasai**](https://wangyasai.github.io/) 一个 3D 网站
 - [**plcpeople**](https://github.com/plcpeople) 一个研究 plc 与 js 通讯的大佬
+- [**https://mirari.cc/archives/**](https://mirari.cc/archives/) 不认识

@@ -28,7 +28,19 @@
 - [https://www.5axxw.com/questions/simple/wc7zpb](https://www.5axxw.com/questions/simple/wc7zpb) vue + aos 实现滚动页面到指定位置时，添加指定动画，示例代码
 - [https://blog.csdn.net/Shids_/article/details/131855886](https://blog.csdn.net/Shids_/article/details/131855886)提升用户体验：Vue与compressor.js实现高效文件压缩
 - [https://zhuanlan.zhihu.com/p/677946734](https://zhuanlan.zhihu.com/p/677946734) 用 View Transition API 在 Web 做出 Native 般丝滑的动画
+- [https://blog.csdn.net/DXWAN/article/details/125172949](https://blog.csdn.net/DXWAN/article/details/125172949) axios上传文件FormData方式以及同时上传文件和参数
+- [https://blog.csdn.net/HYHhmbb/article/details/127088459](https://blog.csdn.net/HYHhmbb/article/details/127088459)axios请求同一接口多次，取消上一次请求
+- [https://demo.haoji.me/2017/02/08-js-xlsx/](https://demo.haoji.me/2017/02/08-js-xlsx/) JavaScript读取和导出excel示例（基于js-xlsx）
+- [https://blog.csdn.net/qq_39905409/article/details/92797844](https://blog.csdn.net/qq_39905409/article/details/92797844) koa-session的使用
+- [https://mirari.cc/posts/v-viewer](https://mirari.cc/posts/v-viewer) Vue图片浏览组件v-viewer，支持旋转、缩放、翻转等操作
+- [https://www.jianshu.com/p/e2b16d7a08b8](https://www.jianshu.com/p/e2b16d7a08b8) 分享一个基于vue的图片查看器组件
+- [https://github.com/duofuni/duo-image-viewer](https://github.com/duofuni/duo-image-viewer) 一个简洁的图片查看器(支持多图记忆)
+- [https://www.imooc.com/article/323059](https://www.imooc.com/article/323059) Vue实战：指定区域打印功能的实现（附示例）
+- [https://blog.csdn.net/weixin_49582736/article/details/131600465](https://blog.csdn.net/weixin_49582736/article/details/131600465) vue2使用pdfjs-dist批量在页面渲染pdf
+- [https://www.cnblogs.com/hdwang/p/16424223.html](https://www.cnblogs.com/hdwang/p/16424223.html) 数字正则式（整数、小数、负数、保留两位小数等）
+- [https://blog.csdn.net/weixin_44402694/article/details/123751362](https://blog.csdn.net/weixin_44402694/article/details/123751362) 【VUE - 工具 - TIFF】01、前端vue+tiffjs预览显示在线tiff图片
 
+ 
 ### 日历相关
  -[https://blog.csdn.net/qw_xingzhe/article/details/44920943](https://blog.csdn.net/qw_xingzhe/article/details/44920943) fullCalendar:中文API
  -[https://blog.csdn.net/weixin_52725484/article/details/132165865](https://blog.csdn.net/weixin_52725484/article/details/132165865) fullcalendar配合vue实现会议室使用情况查看
@@ -100,6 +112,7 @@
 - [https://blog.csdn.net/qq_33591873/article/details/134857918](https://blog.csdn.net/qq_33591873/article/details/134857918)vue3 + mark.js 实现文字标注功能
 - [https://blog.csdn.net/sinat_37066308/article/details/140355007](https://blog.csdn.net/sinat_37066308/article/details/140355007) Fabric.js 深入学习指南
 - [https://juejin.cn/post/7223400545011990565?from=search-suggest](https://juejin.cn/post/7223400545011990565?from=search-suggest) 在线批注 电子签章 标注存数据库，移动端 web 端 桌面端 -[https://gitee.com/mose-x/wps-view-vue#https://gitee.com/mose-x/wps-view-java](https://gitee.com/mose-x/wps-view-vue#https://gitee.com/mose-x/wps-view-java) 本项目采用 VUE + ES6 实现，其中 jwps.es6.js 是由 WPS 开发组特别提供，本项目对该 js 做了部分调整
+- [editorAnnotate](https://gitee.com/doc_wei01/editorAnnotate#https://gitee.com/link?target=http%3A%2F%2Fwww.jq22.com%2Fdemo%2FeditorAnnotate202008032310%2F)skyeyeAnnotate是一款基于jQuery封装的HTML文章批注插件，帮助开发者轻松实现类似word的文本批注。
 
 ## 一些 ui 后台参考
 
