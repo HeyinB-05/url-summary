@@ -13,6 +13,13 @@
 - [**nodemailer**](https://www.nodemailer.com/) 发送邮件。
 - [**vxetable**](https://vxetable.cn/#/start/install) 基于 vue 的表格库。
 - [**turnjs/**](http://turnjs.com/) 使用 HTML5 制作翻书
+- [**Lena.js**](https://www.fellipe.com/demos/lena-js/)一款轻量级的JavaScript图像处理库 [学习链接](https://blog.csdn.net/gitblog_00049/article/details/137766573)
+- [**driver.js**](https://github.com/kamranahmedse/driver.js) [官网](https://driverjs.com/) 一个用于引导用户浏览网站的库。
+- [**wangEditor 5**](https://www.wangeditor.com/) 开源 Web 富文本编辑器，开箱即用，配置简单
+- [**Waves.js**](https://www.showapi.com/news/article/66ecda494ddd79f11a105f6a)Waves.js入门指南：让文字动画效果更加出色
+- [**NPlayer**](https://github.com/oyuyue/nplayer) NPlayer 是由 Typescript 加 Sass 编写，无任何第三方运行时依赖，兼容 IE11，支持移动端、支持 SSR、支持直播的播放器。
+- [**compressorjs**](https://github.com/fengyuanchen/compressorjs) 纯前端的图片压缩工具[效果演示](https://fengyuanchen.github.io/compressorjs/)
+- [**scrollrevealjs**](https://scrollrevealjs.org/) 瀑布流页面滚动动画插件
 
 ## Vue 基础
 

@@ -14,7 +14,13 @@
 - [**Godly**](https://godly.website/) 极好的网页设计灵感,有各式各样的网站设计,可以用来参考和获取灵感。
 - [**Neumorphism**](neumorphism.io) 新拟态设计灵感,边框阴影。
 - [**站长字体**](https://font.chinaz.com/)字体下载
+- [**zzz.dog**](https://zzz.dog/) Zdog是一款用于 Web 开发的伪3D引擎库,其原理基于Canvas 2D上下文,采用等距透视技术在二维画布上模拟三维效果。[合集](https://www.bootstrapmb.com/tag/zdog?page=1)[应用](https://blog.csdn.net/weixin_42562567/article/details/130345729)
 
 ## 其他
 
-- [**https://svg.wxeditor.com/**](https://svg.wxeditor.com/)在线 SVG 编辑器
+- [**https://svg.wxeditor.com/**](https://svg.wxeditor.com/) 在线 SVG 编辑器
+- [**工具库**](http://www.atoolbox.net/Featured.php) 本站已有466个在线工具包含编程、数字图像处理等功能
+- [**booksearch**](https://github.com/gui66497/booksearch) 一个本地文档搜索引擎。
+
+
+

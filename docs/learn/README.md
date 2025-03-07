@@ -21,6 +21,13 @@
 - [http://www.demodashi.com/demo/19089.html](http://www.demodashi.com/demo/19089.html) VUE 翻书效果（vue+ turn.js 实现翻书效果）
 - [https://blog.csdn.net/weixin_43485503/article/details/126059244](https://blog.csdn.net/weixin_43485503/article/details/126059244) vue3+turn.js 实现翻书的效果，带滚动条
 - [https://zhuanlan.zhihu.com/p/43008751](https://zhuanlan.zhihu.com/p/43008751)怎么实现一个 3d 翻书效果
+- [https://blog.csdn.net/weixin_41897680/article/details/124797673] 前端使用print.js实现打印
+- [https://www.cnblogs.com/angia/p/17148241.html] printJs打印页面
+- [https://blog.51cto.com/u_15315508/3208341?articleABtest=0](https://blog.51cto.com/u_15315508/3208341?articleABtest=0)9个JavaScript图像处理库，收藏好留备用
+- [https://zhuanlan.zhihu.com/p/590671292](https://zhuanlan.zhihu.com/p/590671292) 别再使用el-scrollbar做滚动条啦！用simplebar-vue滚动条性能提升N倍！
+- [https://www.5axxw.com/questions/simple/wc7zpb](https://www.5axxw.com/questions/simple/wc7zpb) vue + aos 实现滚动页面到指定位置时，添加指定动画，示例代码
+- [https://blog.csdn.net/Shids_/article/details/131855886](https://blog.csdn.net/Shids_/article/details/131855886)提升用户体验：Vue与compressor.js实现高效文件压缩
+- [https://blog.csdn.net/Shids_/article/details/131855886](https://blog.csdn.net/Shids_/article/details/131855886)提升用户体验：Vue与compressor.js实现高效文件压缩
 
 ### 封装
 
