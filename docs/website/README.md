@@ -15,6 +15,11 @@
 - [**Neumorphism**](neumorphism.io) 新拟态设计灵感,边框阴影。
 - [**站长字体**](https://font.chinaz.com/)字体下载
 - [**zzz.dog**](https://zzz.dog/) Zdog是一款用于 Web 开发的伪3D引擎库,其原理基于Canvas 2D上下文,采用等距透视技术在二维画布上模拟三维效果。[合集](https://www.bootstrapmb.com/tag/zdog?page=1)[应用](https://blog.csdn.net/weixin_42562567/article/details/130345729)
+- [**loading.io**](https://loading.io/) 包含很多loading效果的svg/git
+- [**Animatable**](https://projects.verou.me/animatable/) 有很多动画hover效果
+- [**Hover.css**](https://ianlunn.github.io/Hover/) 有很多动画hover效果
+- [**Loaders.css**](https://connoratherton.com/loaders) 加载动画
+- [**卡片式UI过渡效果**](https://codepen.io/mariacheline/details/yMVvPY) [**卡片翻转效果**](https://codepen.io/FabricioAnciaes/details/agELje)
 
 ## 其他
 

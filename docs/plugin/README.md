@@ -3,23 +3,27 @@
 **这里收集一些使用过的库。**
 
 ## 前端常用
-
-- [**正则大全**](https://any86.github.io/any-rule/)
-- [**Splitpanes**](https://antoniandre.github.io/splitpanes/) 拆分窗格插件些使用过的库。
+ - [**decimal.js**](https://github.com/shinuza/decimal-js) 一个用于任意精度十进制算术的 JavaScript 库。[**big.js、bignumber.js 和 decimal.js 的区别 **](https://www.cnblogs.com/caihongmin/p/17986687)
 
 ## 工具库
 
+- [**正则大全**](https://any86.github.io/any-rule/)
+- [**Splitpanes**](https://antoniandre.github.io/splitpanes/) 拆分窗格插件些使用过的库。
 - [**webcam**](https://www.npmjs.com/package/webcamjs) 访问摄像头 上传到服务器。
 - [**nodemailer**](https://www.nodemailer.com/) 发送邮件。
 - [**vxetable**](https://vxetable.cn/#/start/install) 基于 vue 的表格库。
 - [**turnjs/**](http://turnjs.com/) 使用 HTML5 制作翻书
-- [**Lena.js**](https://www.fellipe.com/demos/lena-js/)一款轻量级的JavaScript图像处理库 [学习链接](https://blog.csdn.net/gitblog_00049/article/details/137766573)
+- [**Lena.js**](https://www.fellipe.com/demos/lena-js/)一款轻量级的 JavaScript 图像处理库 [学习链接](https://blog.csdn.net/gitblog_00049/article/details/137766573)
 - [**driver.js**](https://github.com/kamranahmedse/driver.js) [官网](https://driverjs.com/) 一个用于引导用户浏览网站的库。
 - [**wangEditor 5**](https://www.wangeditor.com/) 开源 Web 富文本编辑器，开箱即用，配置简单
-- [**Waves.js**](https://www.showapi.com/news/article/66ecda494ddd79f11a105f6a)Waves.js入门指南：让文字动画效果更加出色
 - [**NPlayer**](https://github.com/oyuyue/nplayer) NPlayer 是由 Typescript 加 Sass 编写，无任何第三方运行时依赖，兼容 IE11，支持移动端、支持 SSR、支持直播的播放器。
 - [**compressorjs**](https://github.com/fengyuanchen/compressorjs) 纯前端的图片压缩工具[效果演示](https://fengyuanchen.github.io/compressorjs/)
 - [**scrollrevealjs**](https://scrollrevealjs.org/) 瀑布流页面滚动动画插件
+- [**Magic Grid**](https://github.com/e-oj/Magic-Grid) 瀑布流布局插件，自适应九宫格
+- [**fullcalendar**](https://fullcalendar.io/docs) 日历插件
+- [**html2canvas**](https://html2canvas.hertzen.com/) 将 html 转为图片 [相关解决方案](http://www.flerken.cn/programInfo/1165.html)
+- [**printjs**](https://printjs.crabbly.com/) 打印插件
+- [**Fabric.js**](https://fabricjs.com/) [文档](https://www.wenjiangs.com/doc/quick-get-start) [Canvs的js库：Fabric.js简单强大，用于绘制各种图形](https://baijiahao.baidu.com/s?id=1785850109465867365&wfr=spider&for=pc)
 
 ## Vue 基础
 
@@ -46,8 +50,11 @@
 
 ## 动画
 
-- [**animejs**](https://animejs.com/documentation/#array) 动画库，可以用 js 控制动画。
+- [**animejs**](https://animejs.com/documentation/#array) 动画库，可以用 js 控制动画。[相关](https://animista.net/play/basic/rotate-90)
 - [**tsParticles**](https://github.com/tsparticles/tsparticles) 一个用于创建粒子的轻量级 TypeScript 库。
+- [**lottie-web**](https://github.com/airbnb/lottie-web) 一个用于 Web 的库，用于渲染 After Effects 动画。
+- [**Waves.js**](https://www.showapi.com/news/article/66ecda494ddd79f11a105f6a)Waves.js 入门指南：让文字动画效果更加出色
+- [**Animate.css**](https://animate.style/) 动画库，可以用 js 控制动画。
 
 ## CSS
 
@@ -63,5 +70,3 @@
 - [**神奇海螺试验场**](https://lab.magiconch.com/)
 - [**wangyasai**](https://wangyasai.github.io/) 一个 3D 网站
 - [**plcpeople**](https://github.com/plcpeople) 一个研究 plc 与 js 通讯的大佬
-
-

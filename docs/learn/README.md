@@ -27,7 +27,18 @@
 - [https://zhuanlan.zhihu.com/p/590671292](https://zhuanlan.zhihu.com/p/590671292) 别再使用el-scrollbar做滚动条啦！用simplebar-vue滚动条性能提升N倍！
 - [https://www.5axxw.com/questions/simple/wc7zpb](https://www.5axxw.com/questions/simple/wc7zpb) vue + aos 实现滚动页面到指定位置时，添加指定动画，示例代码
 - [https://blog.csdn.net/Shids_/article/details/131855886](https://blog.csdn.net/Shids_/article/details/131855886)提升用户体验：Vue与compressor.js实现高效文件压缩
-- [https://blog.csdn.net/Shids_/article/details/131855886](https://blog.csdn.net/Shids_/article/details/131855886)提升用户体验：Vue与compressor.js实现高效文件压缩
+- [https://zhuanlan.zhihu.com/p/677946734](https://zhuanlan.zhihu.com/p/677946734) 用 View Transition API 在 Web 做出 Native 般丝滑的动画
+
+### 日历相关
+ -[https://blog.csdn.net/qw_xingzhe/article/details/44920943](https://blog.csdn.net/qw_xingzhe/article/details/44920943) fullCalendar:中文API
+ -[https://blog.csdn.net/weixin_52725484/article/details/132165865](https://blog.csdn.net/weixin_52725484/article/details/132165865) fullcalendar配合vue实现会议室使用情况查看
+ -[https://www.cnblogs.com/mycoding/archive/2011/05/20/2052152.html](https://www.cnblogs.com/mycoding/archive/2011/05/20/2052152.html) FullCalendar 官方文档翻译
+ -[https://www.jb51.net/javascript/311244vpz.htm](https://www.jb51.net/javascript/311244vpz.htm) fullCalendar日历插件玩法示例解析
+ -[https://blog.csdn.net/cheng521521/article/details/124606889](https://blog.csdn.net/cheng521521/article/details/124606889) fullCalendar日程表在Vue项目中的应用
+ -[https://www.saoniuhuo.com/question/detail-2804319.html](https://www.saoniuhuo.com/question/detail-2804319.html) jquery 使用fullcalendar自动滚动到timelineWeek视图的当前日期
+
+
+
 
 ### 封装
 
